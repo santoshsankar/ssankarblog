@@ -46,5 +46,4 @@ docs/_build/
 #Custom
 output/
 plugins/
-themes/
 *.pid
