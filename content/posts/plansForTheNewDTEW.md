@@ -13,7 +13,7 @@ So after a couple weeks, I finally sat down and did not budge till I moved the s
 
 I highly recommend [Digital Ocean](https://www.digitalocean.com/?refcode=4326c62c8117) to anyone looking to make the switch... yes I do benefit if you use my referral. 
 
-So now that this major strategic transition is down with, what's next?
+So now that this major strategic transition is done with, what's next?
 
 1.  Make sure there is quality content shared on a consistent basis
 2. Fire up Disqus for commenting
