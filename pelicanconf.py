@@ -38,5 +38,5 @@ DEFAULT_PAGINATION = 4
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-DISQUS_SITENAME = 'santoshsankar'
+DISQUS_SITENAME = "santoshsankar"
 GOOGLE_ANALYTICS = 'UA-5441380-3'
