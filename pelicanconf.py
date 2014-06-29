@@ -33,12 +33,6 @@ SOCIAL = (('@santoshsankar', 'http://www.twitter.com/santoshsankar'),)
 # static paths will be copied under the same name
 STATIC_PATHS = ["images", ]
 
-PLUGINS = [u"disqus_static"]
-
-DISQUS_SITENAME = u'santoshsankar'
-DISQUS_SECRET_KEY = u'oWGk5VpD0rzLaszm23TMkyvuAVp3J9dnMEA4r5v3jXMkp4ufKLFUQtYYGwHsbuCl'
-DISQUS_PUBLIC_KEY = u'dXFuVr4UFuykiZWYOnhvPfGD06D571dKLSFEZgWQujiJWkDIkpC91QaT6X0rs0YR'
-
 DEFAULT_PAGINATION = 4
 
 # Uncomment following line if you want document-relative URLs when developing
