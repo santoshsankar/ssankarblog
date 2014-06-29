@@ -29,7 +29,7 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'))
 
 # Social widget
-SOCIAL = (('@santoshsankar', 'http://twitter.com/santoshsankar'),)
+SOCIAL = (('twitter', 'http://twitter.com/santoshsankar'),)
 
 # static paths will be copied under the same name
 STATIC_PATHS = ["images", ]
