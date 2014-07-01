@@ -1,5 +1,5 @@
 Title: Everyday Observations: Evolving the Experience
-Date: 2014-06-30 18:00
+Date: 2014-06-29 18:00
 Category: Ideas & Innovation
 Tags: everyday observations, everyday technology
 Slug: everyday-observations-evolving-the-experience
