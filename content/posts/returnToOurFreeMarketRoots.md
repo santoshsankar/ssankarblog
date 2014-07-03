@@ -1,0 +1,20 @@
+Title: We Need a Return to Our Free Market Roots
+Date: 2014-07-03 19:45
+Category: Government & Economics
+Tags: free markets, free enterprise, innovation, technology, regulation, government, economics, sharing economy
+Slug: we-need-a-return-to-our-free-market-roots
+disqus_identifier: DTFEWproductHunt
+Author: Santosh Sankar
+Summary: Let's return to our roots in entrepreneurship and make sure our innovative spirit is not hindered by unnecessary regulatory forces that hinder progress.
+
+On the eve of the fourth, I am reflecting on the great liberties the US offers us as citizens. Focusing on the business/economic side of things, I think one America's greatest strengths historically, has been a focus on free markets and fostering entrepreneurship. This had been done while simultaneously being careful not to overextend government into the private sector. 
+
+<div style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;min-width:300px;"><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 49px 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/114990985?et=9E10pbtUSVBoFXRWe2mKSw&sig=3dPTfhSKBafyZLxyKalPQulxb5zcG4n353fbZ9OG2W0=" width="594" height="445" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p style="margin:0;"></p><div style="padding:0;margin:4px 0 0 10px;text-align:left;"><a href="http://www.gettyimages.com/detail/114990985" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">#114990985</a> / <a href="http://www.gettyimages.com" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">gettyimages.com</a></div></div>
+
+However, I am afraid that in the last decade or so, we are shifting in the opposite direction and have turned into an environment that is pro big government. Now don't get me wrong, we need rules and guidelines but what we don't need are the likes of economic floors of ceilings that in turn caps potential, favoritism that benefits the status quo or other burdens to free enterprise.
+
+Over the last several months, it has become increasingly apparent that the government at all levels, plan to intervene in our innovative and quickly growing technology-driven economy. Their intervention in most eyes has been annoying and plainly put, stupid. Cities and states are banning or limiting Uber and Lyft, NYC is giving Airbnb a tough time, net neutrality, NJ previously limiting Tesla sales, etc. The one that has irked me the most is the FAA declaration that hobbyists cannot fly drones. Do they realize casual hobbyists are an engine for growth? Their accidental discoveries due to their casual projects help stoke the great innovative engine of America. The list of intervention keeps going and ultimately, it is not benefiting the citizen who are customers of these services. 
+
+If there is a product or service that is doing the job better than the status quo, it is not the government's role to limit or intervene to protect the "old guard." The government's greed for tax dollars also plays a role in this but perhaps they need to get smart and not spend beyond their means. I digress-- my fear is that innovation and entrepreneurship could be hindered if we don't return to our free market roots. We need a place where new business models and offerings can freely expand even if incumbents are displaced. This is apart of the natural business cycle and any artificial intervention can hurt everyone in the long run.
+
+On this Fourth of July, we have a lot to be thankful for but should also spend sometime thinking if our elected representatives are working for our long term good. In general, technology and innovation helps societies by creating jobs, lowering costs and opening new doors. Let's return to our roots in entrepreneurship and make sure our innovative spirit is not hindered by unnecessary regulatory forces that hinder progress.
