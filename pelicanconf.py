@@ -34,7 +34,7 @@ SOCIAL = (('twitter', 'http://twitter.com/santoshsankar'),)
 # static paths will be copied under the same name
 STATIC_PATHS = ["images", ]
 
-DEFAULT_PAGINATION = 4
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
