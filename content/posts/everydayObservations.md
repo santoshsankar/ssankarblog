@@ -3,8 +3,6 @@ Date: 2014-07-06 20:30
 Category: Ideas & Innovation
 Tags: technology, habits, everyday observations, everyday technology, design, experience, UI/UX
 Slug: EO-whats-the-point
-disqus_identifier: EO-whats-the-point
-disqus_url: http://santoshsankar.com/posts/2014/Jul/06/EO-whats-the-point/
 Author: Santosh Sankar
 Summary: Everyday Observations generally teach me three things: how technology changes us over time, manage our expectations and in turn frames our criticisms to be more realistic and to develop empathy for creators and other users of a product.
 
