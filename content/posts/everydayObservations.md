@@ -1,7 +1,7 @@
 Title: Everyday Observations: What's the Point?
 Date: 2014-07-06 20:30
 Category: Ideas & Innovation
-Tags: technology, habits, everyday observations, food, everyday technology, design, experience, UI/UX
+Tags: technology, habits, everyday observations, everyday technology, design, experience, UI/UX
 Slug: EO-whats-the-point
 disqus_identifier: EO-whats-the-point
 disqus_url: http://santoshsankar.com/posts/2014/Jul/06/EO-whats-the-point/
