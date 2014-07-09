@@ -14,7 +14,7 @@ So I embarked on an aggressive "summer of learning" to round out my business and
 
 It keeps me busy but I love how everything is hands on, that it's free (or quite affordable) and best of all, I can learn and apply immediately. As such, the HCI course requires me to do a long-term project of which the first component is due this weekend.
 
-<img src="/../../../../images/HIpool.jpg" align = "center">
+<img src="/../../../../images/HIpool.jpeg" align = "center">
 
 # The Premise
 
