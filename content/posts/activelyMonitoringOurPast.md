@@ -4,7 +4,7 @@ Category: Ideas & Innovation
 Tags: technology, habits, innovation, big data, social data
 Slug: actively-monitoring-our-past
 Author: Santosh Sankar
-Summary: The "Life Feed" a contextually aware smart streams that surfaces and alerts of us important information related to our past. The feed would take into account where we grew up lived, went to school, family and friends, work and career as well as our interests.
+Summary: The "Life Feed," a contextually aware smart stream that surfaces and alerts of us important information related to our past. The feed would take into account where we grew up lived, went to school, family and friends, work and career as well as our interests.
 
 
 <img src="/../../../../images/past.jpg" align = "center">
