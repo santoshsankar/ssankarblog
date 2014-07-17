@@ -3,6 +3,7 @@ Date: 2014-07-16 21:30
 Category: Product Design
 Tags: design, experience, UI/UX
 Slug: benefits-analytical-design-evaluation
+disqus_identifier: benefits-analytical-design-evaluation
 Author: Santosh Sankar
 Summary: As I progress through my design course, I have taken to analytical design evaluation which I believe everyone can benefit from, forming a design-centric way to help them innovate.
 
