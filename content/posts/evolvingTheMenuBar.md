@@ -10,7 +10,7 @@ I am working on a side project right now where I have essentially taken on the r
 
 I am learning and being cognizant of the great apps I use everyday and trying to transpose that thinking into my design. On my whiteboard I immediately put up the infamous and sometimes hated, hamburger. However, I was quick to recall how some of my most frequented apps often times bunch all their most useful functions "between the buns." 
 
-<img src="/../../../../images/spotifySS.jpg"><img src="/../../../../images/airbnbSS.jpg">
+<img src="/../../../../images/spotifySS.png"><img src="/../../../../images/airbnbSS.png">
 
 Thinking further, people are different, as such, their patten of usage across the same app is likely quite different too, so why should the menu be static?
 
