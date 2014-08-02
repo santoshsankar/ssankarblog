@@ -8,9 +8,9 @@ Summary: With some thought and process, one can participate in crowdfunding (no 
 
 I love crowdfunding, this isn't news for those of you who have followed me from my Wordpress days (aside- I really need to get those old posts up). I consider crowdfunding one of the best financial innovations in recent past given that it can provide several benefits (beyond just capital) to artists, philanthropists, entrepreneurs and innovators. 
 
-<div style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:414px;min-width:300px;"><div style="overflow:hidden;position:relative;height:0;padding:100.000000% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/165961567?et=K15A0lc7S8Nae01ilwIzHA&sig=3eh8HuZ9dbU2AtV5AVqcgnGIgPxnvP3RGXYF7-7Vkpg=" width="414" height="414" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p style="margin:0;"></p><div style="padding:0;margin:0 0 0 10px;text-align:left;"><a href="http://www.gettyimages.com/detail/165961567" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">#165961567</a> / <a href="http://www.gettyimages.com" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">gettyimages.com</a></div></div>
+<img src="/../../../../images/crowdfunding.jpg" align = "center">
 
-It has really taken many forms, from equity-focused offerings like AngelList and Fundable to more creative and product-focused platforms such as Indiegogo or Kickstarter. For the purpose of this piece, I am focusing on the latter cohort.
+It's taken many forms, from equity-focused offerings like AngelList, Crowdfunder or Fundable to more creative and product-focused platforms such as Indiegogo or Kickstarter. For the purpose of this piece, I am focusing on the latter cohort.
 
 I think crowdfunding offers a variety of benefits, including, among other things:
 
@@ -46,3 +46,5 @@ These are just somethings a serious and serial funder should take into considera
 As you can tell, I have a method to the madness. I funnel down to what interests me and based on my monthly allocation, selectively fund things based on my interests and perceived product potential. While not everyone might be capable and/or willing to give a product a shot with a $50 or $100 check, I hope this offers some structure to those interests or on the fence. Shoot me an <a href="mailto: santoshsankar@gmail.com?subject=Just Fund It">email</a> to chat about your approach or use the new Disqus comments below.
 
 All in all, I think a process like this brings confidence and focus with limited capital and time. In essence, this has me setup to identify something and **just fund it**.
+
+*Picture: Image is courtesy of <a href="http://lendingmemo.com/" target="_blank">Lendingmemo.</a> Distributed under the Creative Commons License.*
