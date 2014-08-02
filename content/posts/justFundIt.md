@@ -10,7 +10,7 @@ I love crowdfunding, this isn't news for those of you who have followed me from 
 
 <img src="/../../../../images/crowdfunding.jpg" align = "center">
 
-It's taken many forms, from equity-focused offerings like AngelList, Crowdfunder or Fundable to more creative and product-focused platforms such as Indiegogo or Kickstarter. For the purpose of this piece, I am focusing on the latter cohort.
+It's taken many forms, from equity-focused offerings like AngelList, Crowdfunder or Fundable, lending platforms like Lendingmemo or SomoLend, to more creative and product-focused platforms such as Indiegogo or Kickstarter. For the purpose of this piece, I am focusing on the latter cohort.
 
 I think crowdfunding offers a variety of benefits, including, among other things:
 
