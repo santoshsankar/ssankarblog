@@ -1,5 +1,5 @@
 Title: Everyday Observations: I Gave Up My Wallet for my Droid
-Date: 2014-07-18 18:30
+Date: 2014-08-18 18:30
 Category: Ideas & Innovation
 Tags: everyday observations, everyday technology, mobile payments, mobile identity
 Slug: everyday-observations-gave-up-my-wallet-for-my-droid
