@@ -37,3 +37,5 @@ Seeing and using Google Cardboard which is a lower cost and has a smaller (but n
 These are just a few ways I think VR could come of age as a platform across a variety of uses. My previous perception was wrong and I do think that VR and augmented reality could co-exist and generate value for us all. For those interested, try out Google Cardboard from <a href="http://www.dodocase.com/products/google-cardboard-vr-goggle-toolkit" target="_blank">DoDoCase</a>. There are a variety of cool apps popping up and maybe you could gain the inspiration to embark on building your own app.
 
 A quick note, I have found multiple sources that claim that Cardboard also works with iPhone, just <a href="https://www.google.com/search?q=google+cardboard+for+iphone&oq=google+cardboard+for+i&aqs=chrome.1.69i57j0l5.3216j0j4&sourceid=chrome&es_sm=91&ie=UTF-8" target="_blank">Google</a> it.
+
+*Picture from Google Cardboard Website*
