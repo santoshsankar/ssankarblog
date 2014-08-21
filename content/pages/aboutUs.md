@@ -14,8 +14,17 @@ My name is Santosh Sankar and I am an equity research associate at a large bank 
 My interests include:
 
 * Technology / Innovation
+* * Financial Technology
+* * Wearables
+* * Virtual Reality
+* * Travel and Food Apps
+* * Messaging and Communication
+* * Nanotechnology
+* * Big Data
+* * Health and Leisure Apps
 * Startups
 * Angel and venture capital investing
+* Financial technology
 * Product design, development and management
 * Programming
 * Leadership
