@@ -4,7 +4,7 @@ Category: Innovation & Ideas
 Tags: ideas, innovation, mobile, product design, digital, history, big data, design, self quantification, wearables
 Slug: history-written-with-data-illustrated-with-design
 Author: Santosh Sankar
-Summary: We are passively creating raw autobiographies from the data trails we leave. While unnerving to some, everything about us will be available for the benefit and use of future generations.
+Summary: We're passively creating raw autobiographies from the data trails we leave which. While unnerving to some, with good design, they could be visualized and available for the benefit and use of future generations.
 
 From FitBits to Droids, Maps to Twitter, we're leaving an abundance of information about ourselves -- a *"datafied" history* of sorts. In a some sense, we are passively creating raw autobiographies with data trails that depict who we are. 
 
