@@ -29,7 +29,7 @@ But this year, on my commute back home last week, I started thinking about how t
 * **Social Networking:** Facebook was King vs Facebook + Twitter + LinkedIn + Pintrest + Instagram + Many More
 * **Content Aggregation / Consumption:** Google Reader (or Digg, StumbleUpon, etc) vs. Feedly + Pocket + Flipboard + Nuzzle+ Twitter + Many More
 * **Productivity:** Google Docs (Browser based) vs. Google Drive Suite (or iWorks, Office 365)
-* **Photo Sharing:** Facebook + Flickr + Picassa vs Instagram + Google Drive + Dropbox + 500px
+* **Photo Sharing:** Facebook + Flickr + Picasa vs Instagram + Google Drive + Dropbox + 500px
 * **Photo Editing:** Native Editor + Desktop Software vs Instagram + VSCO
 * **Sports:** Browser-based vs + ESPN + Rivals + Bleacher Report + Score
 * **Maps:** Google Maps vs Google Maps (I believe this was the same deal as Gmail-- there was a native app for it)
