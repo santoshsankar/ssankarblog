@@ -1,8 +1,8 @@
-Title: Importance of Reflection
+Title: My Take on Being a Mentor
 Date: 2014-09-16 19:00
 Category: Personal Development
 Tags: reflection, mentorship, personal growth, personal development, education, knowledge
-Slug: importance-of-reflection
+Slug: my-take-on-being-a-mentor
 Author: Santosh Sankar
 Summary: Being a big proponent of mentorship, I share my views on being a good mentor from my four short years of experience. I have come to learn that teaching is one of the best forms of learning and plays an important role in enjoying and succeeding as a mentor.
 
