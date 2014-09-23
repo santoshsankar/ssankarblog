@@ -9,6 +9,7 @@ Summary: PayPal allowing merchants to accept Bitcoin should allow it to see more
 PayPal announced this morning that it has partnered with various Bitcoin wallet providers to allow merchants to accept Bitcoin as payment. As it stands, people can purchase Bitcoin but only a handful of outlets accept it as payment. With this new feature, merchants can easily accept it provided they use PayPal. This news comes after Braintree (a part of the PayPal family) <a href="http://techcrunch.com/2014/09/08/paypal-braintree/" target="_blank">announced</a> it will be able to process Bitcoins on its mobile payment solution.
 
 <img src="/../../../../images/bitcoinpriceCoinbase.png" align = "center">
+
 *Source: Coinbase as of 09/23/14 at 7pm*
 
 Today's news is just another step in the "coming of age" for Bitcoin. While the integration is minor and PayPal doesn't hold inventory of Bitcoin, it offers some further validation for the cryptocurrency.
