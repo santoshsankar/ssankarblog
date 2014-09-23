@@ -16,6 +16,7 @@ Today's news is just another step in the "coming of age" for Bitcoin. While the 
 
 ## Validation
 PayPal's support is quite meaningful (even if the feature is minor for the broader product) for Bitcoin's future given that it could help further reinforce the following points:
+
 * **Bitcoin is Money.** In order for something to be considered as money, it requires it to possess: durability, portability, fungibility, scarcity, divisibility, and recognizability. I'm not going to dissect all these points but if a name like PayPal allows merchants to accept it, it's one step closer to accepting it as money.
 * **Security/Fraud.** With a name like PayPal now supporting Bitcoin, it brings additional validation to the block chain (a ledger of validated transactions) which is at the heart of Bitcoin. More about blockchains <a href="https://en.bitcoin.it/wiki/Block_chain" target="_blank">here</a>.
 * **Liquidity.** More participants involved with the currency helps improve liquidity. This, in my opinion is the most important impact of this announcement.
