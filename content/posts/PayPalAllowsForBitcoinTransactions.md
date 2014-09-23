@@ -4,7 +4,7 @@ Category: Financial Technology
 Tags: bitcoin, alternative currencies, cryptocurrencies, payments, blockchain, paypal
 Slug: bitcoin-what-i-think-about-paypals-announcement
 Author: Santosh Sankar
-Summary: PayPal allowing merchants to accept Bitcoin should allow it to see more liquidity resulting in lower price volatility which should reinforce it's durability as a store of value and in turn increase its acceptance
+Summary: PayPal allowing merchants to accept Bitcoin should allow it to see more liquidity resulting in lower price volatility which should reinforce it's durability as a store of value and in turn increase its acceptance.
 
 PayPal announced this morning that it has partnered with various Bitcoin wallet providers to allow merchants to accept Bitcoin as payment. As it stands, people can purchase Bitcoin but only a handful of outlets accept it as payment. With this new feature, merchants can easily accept it provided they use PayPal. This news comes after Braintree (a part of the PayPal family) <a href="http://techcrunch.com/2014/09/08/paypal-braintree/" target="_blank">announced</a> it will be able to process Bitcoins on its mobile payment solution.
 
