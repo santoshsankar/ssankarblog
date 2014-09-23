@@ -4,7 +4,7 @@ Category: Early Stage Investing
 Tags: public markets, private markets, burn rates, start up financials, early stage investing
 Slug: a-tale-of-two-markets
 Author: Santosh Sankar
-Summary: My thoughts as to why public investors might be more willing to tolerate "high burn" than private market investors. 
+Summary: My thoughts as to why public investors might be more willing to tolerate "high burn" than private market investors.
 
 <div style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:507px;"><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/171998922?et=X1FG5HXxTf5zVqMNXn46_A&sig=OmcR8rSQMMoVWhipZge3bj7STkbEKehvANbdqHgPqd0=" width="507" height="338" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p style="margin:0;"></p><div style="padding:0;margin:0 0 0 10px;text-align:left;"><a href="http://www.gettyimages.com/detail/171998922" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">#171998922</a> / <a href="http://www.gettyimages.com" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">gettyimages.com</a></div></div>
 
