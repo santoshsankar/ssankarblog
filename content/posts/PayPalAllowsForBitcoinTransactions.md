@@ -28,4 +28,4 @@ PayPal's ability to accept Bitcoin payments introduces increased liquidity for t
 
 I think of this as a circular reference-- Bitcoin sees more liquidity resulting in lower price volatility which should reinforce it's durability as a store of value and in turn increase its acceptance. I'm sure the Bitcoin market will see some in depth studies in the coming years due to it's complexity but this is just my high level perspective. Happy to hear everyone else's thoughts.
 
-**Note: I do hold an insignificant amount of Bitcoin**
+**Note: I hold an insignificant amount of Bitcoin**
