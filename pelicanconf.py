@@ -16,7 +16,7 @@ DATE_FORMATS = {
 
 DEFAULT_LANG = u'en'
 
-THEME = 'pelican-bootstrap3'
+THEME = 'pelican-sundown-master'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -44,3 +44,5 @@ DISQUS_SITENAME = 'santoshsankar'
 GOOGLE_ANALYTICS = 'UA-5441380-3'
 
 ADDTHIS_PROFILE = 'ra-53bac8ab21097050'
+
+TAG_CLOUD_MAX_ITEMS = 5
