@@ -16,7 +16,7 @@ DATE_FORMATS = {
 
 DEFAULT_LANG = u'en'
 
-THEME = 'pelican-sundown-master'
+THEME = 'pelican-bootstrap3'
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
