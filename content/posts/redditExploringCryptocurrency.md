@@ -19,7 +19,7 @@ CEO Yishan Wong's <a href="https://www.reddit.com/r/blog/comments/2hwpmm/fundrai
 
 >Again, we want to emphasize that this plan is in its earliest stages right now and could totally fail (if it does, we will find another way to get the shares to the community somehow), but we are going to try it because... well, because we are reddit and we do these kinds of things.
 
-# My Thoughts
+## My Thoughts
 
 I'm not here to make a judgement given this is just an idea but want to share a few of my questions as an on-looker.
 
