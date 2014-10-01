@@ -6,19 +6,18 @@ Slug: my-views-on-reedit-exploring-cryptocurrencies
 Author: Santosh Sankar
 Summary: My views on Reddit announcing preliminary plans to attempt to create a cryptocurrency that is backed by its own equity.
 
-Reddit <a href="http://techcrunch.com/2014/09/30/reddit-scoops-up-50m-series-b-from-sam-altman-a16z-sequoia-at-500m-valuation/?ncid=rss" target="_blank">announced</a> a $50M Series B round along with preliminary plans to attempt to create a cryptocurrency that is backed by the equity of Reddit.
 
-<div style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:490px;"><div style="overflow:hidden;position:relative;height:0;padding:71.428571% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/499104255?et=lpO2cj__ShRwnvkB1MWL9w&sig=qJ9k8DKIKc33lnPtjxpILLXnhvifC_5Yi9fbxZYhG9I=" width="490" height="350" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p style="margin:0;"></p><div style="padding:0;margin:0 0 0 10px;text-align:left;"><a href="http://www.gettyimages.com/detail/499104255" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">#499104255</a> / <a href="http://www.gettyimages.com" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">gettyimages.com</a></div></div>
+Reddit <a href="http://techcrunch.com/2014/09/30/reddit-scoops-up-50m-series-b-from-sam-altman-a16z-sequoia-at-500m-valuation/?ncid=rss" target="_blank">announced</a> a $50M Series B round along with preliminary plans to attempt to create a cryptocurrency that is backed by the equity of Reddit.
 
 CEO Yishan Wong's <a href="https://www.reddit.com/r/blog/comments/2hwpmm/fundraising_for_reddit/ckwph30" target="_blank">thoughts</a> on the subject:
 
->>We are thinking about creating a cryptocurrency and making it exchangeable (backed) by those shares of reddit, and then distributing the currency to the community. The investors have explicitly agreed to this in their investment terms.
+>We are thinking about creating a cryptocurrency and making it exchangeable (backed) by those shares of reddit, and then distributing the currency to the community. The investors have explicitly agreed to this in their investment terms.
 
->>Nothing like this has ever been done before. Basically we have to nail down how to do each step correctly (it is technically, legally, and financially complex), though in our brief consultation with an ex-SEC lawyer, he stated he could find nothing illegal about this plan. Nevertheless, there are something like 30 different things we have to pull off to make this work, so we're going to try.
+>Nothing like this has ever been done before. Basically we have to nail down how to do each step correctly (it is technically, legally, and financially complex), though in our brief consultation with an ex-SEC lawyer, he stated he could find nothing illegal about this plan. Nevertheless, there are something like 30 different things we have to pull off to make this work, so we're going to try.
 
->>(Also, I know this totally contradicts what I said over here but that was before Sam proposed this plan to me, and the idea of being able to distribute ownership of reddit back to the community - a long-held dream of many of us, frankly - is important enough to try and do this)
+>(Also, I know this totally contradicts what I said over here but that was before Sam proposed this plan to me, and the idea of being able to distribute ownership of reddit back to the community - a long-held dream of many of us, frankly - is important enough to try and do this)
 
->>Again, we want to emphasize that this plan is in its earliest stages right now and could totally fail (if it does, we will find another way to get the shares to the community somehow), but we are going to try it because... well, because we are reddit and we do these kinds of things.
+>Again, we want to emphasize that this plan is in its earliest stages right now and could totally fail (if it does, we will find another way to get the shares to the community somehow), but we are going to try it because... well, because we are reddit and we do these kinds of things.
 
 # My Thoughts
 
