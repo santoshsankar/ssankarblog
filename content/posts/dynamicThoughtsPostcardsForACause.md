@@ -6,7 +6,7 @@ Slug: dynamic-thoughts-epostcards-for-a-cause
 Author: Santosh Sankar
 Summary: For my first product, I wanted something that related to my interests in travel and private charity-- ePostcards for a Cause.
 
-<img src="/../../../../images/Postcard.png" style = "float: center">
+<img src="/../../../../images/Postbox.png" style = "float: center">
 
 Over the last week or so, I've been reviewing my ideas to figure out which one I want to hack together. I wanted a tangible project whereby I can apply my business skills as well as my newfound design and technical lessons from my HCI and Swift classe(s), respectively. 
 
