@@ -1,5 +1,4 @@
-
-Title: Everyday Observations: No More Loyalty Punchcards, Please
+Title: Everyday Observations- No More Loyalty Punchcards, Please
 Date: 2014-10-13 18:30
 Category: Ideas & Innovation
 Tags: everyday observations, mobile, loyalty cards, marketing, customer experience, data
