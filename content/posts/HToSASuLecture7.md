@@ -6,7 +6,7 @@ Slug: how-to-start-a-startup-lecture-7-notes
 Author: Santosh Sankar
 Summary: My notes from How to Start a Startup's Lecture 7 presented by Kevin Hale focusing on making products users love.
 
-I am starting out-of-order but have wanted to share my notes from the lectures for the last month. Excuse the paper/pictures-- future ones will be scanned. These are not a substitute for the actual presentation (which I have embedded below) but what I found interesting and valuable to my toolkit. Without further ado...
+I am starting out-of-order but have wanted to share my notes from the lectures for the last month. Excuse the paper/pictures-- future ones will be scanned. These are not a substitute for the actual presentation but what I found interesting and valuable to my toolkit. Without further ado...
 
 ----
 
@@ -27,10 +27,10 @@ I am starting out-of-order but have wanted to share my notes from the lectures f
 
 ### Is it A Quality Item?
 
-1. **Atarimae Hinshitsu.** Taken for granted quality
-2. **Miryokuteki Hinshitsu.** Enchanting quality
+**Atarimae Hinshitsu.** Taken for granted quality
 
-
+**Miryokuteki Hinshitsu.** Enchanting quality
+ 
 * Like a beautiful app, easy to use, the interface is fluid, intuitive, gets the job done efficiently
 * Adding features expand the "Knowledge Gap" -- avoid "making users fat"
 * People often try to build a brand personality to connect to users through humor or wit
