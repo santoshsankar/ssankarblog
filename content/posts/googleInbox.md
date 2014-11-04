@@ -18,7 +18,7 @@ I've been using Google Inbox for a few weeks now as my sole email client. It too
 
 	One thing that's worth noting is that I actually peruse through those *other* emails now without opening any. The numerous newsletters, offers/discounts, etc that were usually hid away from my sight I can now review with great speed and even do a bulk delete/archive. For those wondering, this is probably also much more friendlier to email marketers who were ticked-off when Gmail started auto-bucketing emails away from a user's view.
 
-<img src="/../../../../images/bundles.png">		<img src="/../../../../images/checks.png">
+<img src="/../../../../images/bundles.png">		<img src="/../../../../images/reminders.png">
 
 3. **Email as Actions**. While I love email, I also hate it because it can end up being a chore. Answering email after email, reviewing everything to see what is important, etc. A great example of emotional design, the "checking off" of emails that have been dealt with makes me feel more accomplished. No longer will there be statements like, "*All* I did was answer the crap-ton of emails in my inbox" it will now be a statement of accomplishment. Note: I believe the check-off is the same thing as "archiving."
 
