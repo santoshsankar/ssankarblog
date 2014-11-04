@@ -8,6 +8,8 @@ Summary:  I've been using Google Inbox for a few weeks now as my sole email clie
 
 I've been using Google Inbox for a few weeks now as my sole email client. It took the spot of Gmail on my home screen and the Gmail tab in Chrome. Going into it, I have long thought that this re-nnovation of email was a long-time coming and kept an open mind with the goal of sharing feedback to help make a better product. Here are my thoughts-
 
+<img src="/../../../../images/bundles.png">		<img src="/../../../../images/reminders.png">
+
 ## What's Awesome
 
 1. **Material Design**. Google gets design. I think for a long time they've been focused on engineering and are coming full circle with Material Design. It's so satisfying to use Inbox from composing emails down to sliding, selecting, dragging, etc.
@@ -17,8 +19,6 @@ I've been using Google Inbox for a few weeks now as my sole email client. It too
 	I'm no longer going through a ton of emails but am addressing bundles. I can determine very quickly what's important, address it then "check off" the bundle without going through numerous emails.
 
 	One thing that's worth noting is that I actually peruse through those *other* emails now without opening any. The numerous newsletters, offers/discounts, etc that were usually hid away from my sight I can now review with great speed and even do a bulk delete/archive. For those wondering, this is probably also much more friendlier to email marketers who were ticked-off when Gmail started auto-bucketing emails away from a user's view.
-
-<img src="/../../../../images/bundles.png">		<img src="/../../../../images/reminders.png">
 
 3. **Email as Actions**. While I love email, I also hate it because it can end up being a chore. Answering email after email, reviewing everything to see what is important, etc. A great example of emotional design, the "checking off" of emails that have been dealt with makes me feel more accomplished. No longer will there be statements like, "*All* I did was answer the crap-ton of emails in my inbox" it will now be a statement of accomplishment. Note: I believe the check-off is the same thing as "archiving."
 
