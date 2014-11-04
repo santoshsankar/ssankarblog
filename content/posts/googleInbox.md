@@ -8,8 +8,6 @@ Summary:  I've been using Google Inbox for a few weeks now as my sole email clie
 
 I've been using Google Inbox for a few weeks now as my sole email client. It took the spot of Gmail on my home screen and the Gmail tab in Chrome. Going into it, I have long thought that this re-nnovation of email was a long-time coming and kept an open mind with the goal of sharing feedback to help make a better product. Here are my thoughts-
 
-<img src="/../../../../images/bundles.png">		<img src="/../../../../images/reminders.png">
-
 ## What's Awesome
 
 1. **Material Design**. Google gets design. I think for a long time they've been focused on engineering and are coming full circle with Material Design. It's so satisfying to use Inbox from composing emails down to sliding, selecting, dragging, etc.
@@ -23,6 +21,8 @@ I've been using Google Inbox for a few weeks now as my sole email client. It too
 3. **Email as Actions**. While I love email, I also hate it because it can end up being a chore. Answering email after email, reviewing everything to see what is important, etc. A great example of emotional design, the "checking off" of emails that have been dealt with makes me feel more accomplished. No longer will there be statements like, "*All* I did was answer the crap-ton of emails in my inbox" it will now be a statement of accomplishment. Note: I believe the check-off is the same thing as "archiving."
 
 4. **Reminders**. The ability to integrate email and task lists is great. Email has long been a large part of a daily routine so why not include the other tasks one needs to accomplish in the most used app? The predictive text is great, I can type buy and I already have items such as milk, books, bread, eggs, et al. I would assume that this list would become more fine tuned as time goes on and Inbox understands the user better
+
+<img src="/../../../../images/bundles.png">		<img src="/../../../../images/reminders.png">
 
 ## What Needs Another Iteration
 
