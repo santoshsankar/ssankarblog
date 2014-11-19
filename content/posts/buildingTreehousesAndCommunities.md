@@ -8,7 +8,9 @@ Summary: At the root of it all, a great community is to building businesses and 
 
 I spent the weekend exploring Chattanooga, TN this past weekend and had the opportunity to meet leaders in their startup scene. I was able to visit <a href="http://colab.co/" target="_blank">The Co.Lab</a>  located in what the locals refer to as the Southside where I met several talented leaders in the startup community.
 
+<p align = "center">
 <img src="/../../../../images/lookoutpt.jpg" align = "center">
+</p>
 
 Particularly I met the team behind The Treehouse Project which launched its <a href="http://www.sleepinatree.co" target="_blank">Kickstarter</a> campaign earlier this afternoon. For those looking to spend time outdoors and realize (or relive) their childhood fantasies of a treehouse-- this is a great way to do it.
 
