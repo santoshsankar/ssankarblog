@@ -6,7 +6,7 @@ Slug: dynamic-thoughts-building-treehouse-and-communities
 Author: Santosh Sankar
 Summary: At the root of it all, a great community is to building businesses and entrepreneurship what a great tree is to building a treehouse. 
 
-I spent the weekend exploring Chattanooga, TN this past weekend and had the opportunity to meet leaders in their startup scene. I was able to visit <a href="http://colab.co/" target="_blank">The Co.Lab</a>  located in what the locals refer to as the Southside where I met several talented leaders in the startup community.
+I spent the weekend exploring Chattanooga, TN and had the opportunity to meet leaders in their startup scene. I was able to visit <a href="http://colab.co/" target="_blank">The Co.Lab</a>  located in what the locals refer to as the Southside where I met several talented leaders in the startup community.
 
 <p align = "center">
 <img src="/../../../../images/lookoutpt.jpg" align = "center">
