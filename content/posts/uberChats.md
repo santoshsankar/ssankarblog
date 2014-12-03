@@ -7,8 +7,9 @@ Author: Santosh Sankar
 Summary: I'm a huge fan of Uber and other sharing services that have taken antiquated businesses and injected them with a dose of innovative which has been aided by mobile. While it makes sense to speak and read what investors and executives at major companies say to understand Uber and the marketplace model in general, it's great to get a driver's perspective.
 
 When I use Uber, I usually spend about 50% of the time chatting with my driver. I learn about their backgrounds, why they opted for their current job and once in a while, learn more about Uber and the marketplace-model.
-
+<p align = "center">
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;"><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/453253488?et=V1y8OzUmQYV9BqKFaoF6WQ&flyout=on&sig=hGKqcmjLne5_QVBLBsC_qfvAHUsWYAAAMiU3jKIiz7s=" width="594" height="396" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p style="margin:0;"></p><div style="padding:0;margin:0 0 0 10px;text-align:left;"><a href="http://www.gettyimages.com/detail/453253488" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">#453253488</a> / <a href="http://www.gettyimages.com" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">gettyimages.com</a></div></div>
+</p>
 
 During one of my recent drives, I had the privilege of riding with a driver rated 4.5+ on what he described as a count of over 2,000 rides-- we can call him "All-Star Driver." After my 20 minute ride, while I concluded that Uber in itself is still a work-in-progress (especially in light of the recent press attention around culture), two major points were surfaced from my conversation-
 
