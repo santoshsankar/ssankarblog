@@ -31,6 +31,6 @@ While writing flows and experiences, screen-by-screen, to start off might seem o
 * easier to show new users how to use the app (onboarding)
 * streamlined user experiences-- get rid of unnecessary steps
 
-Next time you have a project on hand, give writing for a quick 20 mins a shot, perhaps you will also gain from a different approach.
+Next time you have a project on hand, give writing for a quick 20 mins a shot, perhaps you will also gain from this different approach.
 
 *Picture: By <a href="https://www.flickr.com/photos/baldiri/" target="_blank">balder</a> from <a href="https://www.flickr.com/photos/baldiri/5735001938/in/photolist-9JMogL-4kJFAd-4jH1Uk-4jH6vM-4YDw5q-8LyS5G-4kJFzf-4jM451-aJdb1i-46NoMN-9zJKAJ-4jH6yx-2z5oeq-4jM8E1-4Jm7GV-6FLiRU-4k3a18-5Zo2dd-2S9bQ-aJdba8-7gS9Px-5apKh-5SFCkM-7h5y9W-4jM471-9JJyxZ-4k7bAA-4jM3SW-4k7aS7-7gPy6J-madHF-5yMeUS-8RQknd-4YRZWK-7fkf8U-4DYvyw-4jM3US-8LvN2T-9ub1Rr-9PEb4c-9PH2ZC-9PEbdZ-7K1ERj-9f7nJR-gTnHCV-8LvMEF-LwixG-4y7nFu-4Ep4wb-PrpAA" target ="_blank">Flickr</a> under the Creative Commons License*
