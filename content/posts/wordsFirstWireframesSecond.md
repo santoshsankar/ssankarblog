@@ -18,7 +18,7 @@ It might sound crazy, but I've found that a simple outline in <a href="http://ww
 
 Draft (or any text editor) has ended up acting as a "canvas" that can serve as a guide or checklist when interfaces and experiences are wireframed and/or prototyped.
 
-I've noticed that when I wireframe first before any type of written planning or interaction enumeration, I find myself referencing sites like UX Archive- like a crutch. After a full work day, it ends up being easy to repeat previously used patterns or interfaces without exploring and thinking through 1) what is best for the situation and 2) what can be done that hasn't been yet.
+I've noticed that when I wireframe first before any type of written planning or interaction enumeration, I find myself referencing UX sites like a crutch. After a full work day, it ends up being easy to repeat previously used patterns or interfaces without exploring and thinking through 1) what is best for the situation and 2) what can be done that hasn't been done (yet).
 
 Furthermore, writing also helps humanize the human-computer interactions we're building. I'm not writing abbreviated, robotic descriptions, helper text or responses. We don't communicate to each other like that, so why should our apps be planned (or reflect) something that is inhuman? The confines of a box or tool tip can make us think we need to squeeze or abbreviate ourselves but *in early innings, the emphasis should be on the message, not necessarily making it fit into UI elements*.
 
