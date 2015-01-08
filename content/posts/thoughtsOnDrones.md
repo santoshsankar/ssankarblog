@@ -1,7 +1,7 @@
 Title: Thoughts on Drones
 Date: 2015-01-07 20:30
 Category: Dynamic Thoughts
-Tags: drones, AI, IoT
+Tags: drones, IoT
 Slug: thoughts-on-drones 
 Author: Santosh Sankar
 Summary: A few of my thoughts on drones as it relates to their usage and impact in emerging economies given the increased automation they introduce.
