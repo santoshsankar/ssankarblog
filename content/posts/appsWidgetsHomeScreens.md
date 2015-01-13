@@ -8,6 +8,7 @@ Summary: I had a TweetStorm this morning about my thoughts on apps and widgets a
 
 I had a TweetStorm earlier this morning about my thoughts on apps and widgets as I set to reoptimize my home screen this week.
 
+<p align = "center">
 <blockquote class="twitter-tweet" lang="en"><p>1/ Started a cleanup effort to reoptimize my home screen on Sunday. A couple observations since I&#39;m still trying to make sure it&#39;s well set</p>&mdash; Santosh Sankar (@santoshsankar) <a href="https://twitter.com/santoshsankar/status/554997226851033088">January 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -22,6 +23,7 @@ I had a TweetStorm earlier this morning about my thoughts on apps and widgets as
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p>5/ It will be interesting to see how often users do a cleanup. I think Millenials are slowly doing such now to optimize life &amp; productivity</p>&mdash; Santosh Sankar (@santoshsankar) <a href="https://twitter.com/santoshsankar/status/554999933196316672">January 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 A couple things were distilled after some discussion:
 
