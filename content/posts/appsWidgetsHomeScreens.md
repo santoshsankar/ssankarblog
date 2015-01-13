@@ -28,4 +28,5 @@ I had a TweetStorm earlier this morning about my thoughts on apps and widgets as
 A couple things were distilled after some discussion:
 
 * **App makers think they have time to earn adoption.** While "try out times" likely differ between categories, users likely give no more than a few minutes to judge if an app is worth their time. Note: I checked AppAnnie quickly and I'm unsure if they have something that could point to this exact stat
+* **Widgets matter too.** Widgets are a great way to drive twice the value to users while maintaining relevance on the home screen. I think this has been very underutilized
 * **The user base might be more proactive than we think.** Speaking informally to many Millennials, there is a push optimize time and productivity. This has led to many "staple apps" leaving the home screen or even being outright uninstalled. Facebook and Twitter have been among those removed from the home screen or uninstalled. The question is if this is a consistent trend and if so, how could app makers re-engage this "lost" crowd?
