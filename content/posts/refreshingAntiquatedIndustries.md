@@ -21,6 +21,6 @@ These businesses have had minimal innovation or retooling over their 100 year+ e
 7. Related to #6, there's a lack of viable substitutes
 8. In some instances, size could help with pricing power but not always the case
 
-However, in the last several years, we've seen upstarts take a crack at "refreshing" these age-old industries with new, lean, responsive, and business models. Examples include: Lending Club (lending), Shyp (shipping and logistics), Oscar (health insurance), Robinhood (wealth management), Groove (customer service), Bellhops (moving), Betabrand (apparel), 23andMe (healthcare), Classpass (fitness-focused retail)-- the list goes on.
+However, in the last several years, we've seen upstarts take a crack at "refreshing" these age-old industries with new, lean, responsive, and business models. Frankly, to me, disruption, as a word, implies displacing an existing, aged competitor(s). Examples include: Lending Club (lending), Shyp (shipping and logistics), Oscar (health insurance), Robinhood (wealth management), Groove (customer service), Bellhops (moving), Betabrand (apparel), 23andMe (healthcare), Classpass (fitness-focused retail)-- the list goes on.
 
 Despite a myriad of players already working on reinventing age-old industries and businesses, large opportunities still exist as antiquated industries are in a dire need of a refresh.
