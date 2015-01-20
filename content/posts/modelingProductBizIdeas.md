@@ -1,5 +1,5 @@
 Title: Modeling Product & Business Ideas
-Date: 2015-01-20 16:00
+Date: 2015-01-20 15:45
 Category: Product
 Tags: financial analysis, financial modeling, product management, business modeling, operation modeling
 Slug: modeling-product-and-business-ideas
