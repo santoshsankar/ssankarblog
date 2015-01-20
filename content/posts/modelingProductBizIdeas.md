@@ -16,7 +16,7 @@ Having spent the last five years with my nose in financial models, scenario anal
 
 * **Make assumptions and move on.** I find people who often times spend days trying to justify their assumptions. A couple points here: 1) strive to quickly make assumptions that are supported by empirical data, 2) sit down with your broad team to vet the assumptions-- don't try to do it all yourself. Odds are, you do *not know* -- and those operational risks are what all stakeholders can focus on
 
-* **Account for details but don't "spin your wheels".** I love bottom-up analysis where you can go to *reasonable detail* to show how a new product or features impacts the broader business. A simple example- the addition of a new feature might cost $x but open up a sizeable market which could drive MAUs, which in turn, based on an assumption, drive $y of incremental in-app purchases
+* **Account for details but don't "spin your wheels".** I love bottom-up analysis where you can go to *reasonable detail* to show how a new product or features impacts the broader business. When thinking about the details, think about modeling the unit-level components that will drive the sales and expense lines. Don't lump tiers or features but break them out and try to estimate them with a reasonable degree of confidence. A simple example- the addition of a new feature might cost $x but open up a sizeable market which could drive MAUs, which in turn, based on an assumption, drive $y of incremental in-app purchases
 
 * **Always build scenarios.** People always ask "what-if" and frankly, when I'm thinking through a business, I think it's important to "stress" it to see how bad things could reasonably get
 
