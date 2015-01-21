@@ -1,10 +1,10 @@
 Title: Experience is Part of the Product
 Date: 2015-01-21 17:00
 Category: Product
-Tags: UX, usability, UI, interface
+Tags: UX, usability, UI, interface, customer experience
 Slug: experience-is-part-of-the-product
 Author: Santosh Sankar
-Summary: My run-in at the local bagel shop revealed some common customer/user experience mistakes that can doom your product. UX isn't separate from the core product but one-and-the-same.
+Summary: My run-in at the local bagel shop revealed some common customer/user experience mistakes that can doom your product. Customer experience isn't separate from the core product but one-and-the-same.
 
 I decided to have an early lunch with a friend today and we agreed to run over to the nearby bagel shop for a bite. Without naming names, this place is renowned for their bagels-- literally the best I've had in NYC so far.
 
