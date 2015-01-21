@@ -18,7 +18,7 @@ While digital products are different from food services businesses, the major fl
 
 * **Train your staff.** The staff at the bagel shop is awful. They don't know what's available, nor do they listen and absorb the customer's order. This isn't how you want your team to be, make sure they're responsive, engaged, and in-the-know. If they aren't perhaps you need some training or reevaluate management and cultural decisions
 
-* **Be clear about what you offer.** Make sure users know what they can and cannot expect to get. Don't be vague or hide offerings in a series of cascading menus, be upfront and bold
+* **Be clear about what you offer.** Make sure users know what they can and cannot expect to get. Don't be vague or hide offerings in a series of cascading menus, be upfront and bold. The menu at the shop was in small text and spanned 20 feet-- who is going to go through that? Clarity is key
 
 * **Simple is wonderful.** Do just a few things very well. Don't overextend and try to do several things at once. Odds are each of those things will be mediocre at best. When it comes down to process, user flows, and customer services, keep it efficient-- minimal wait times and high responsiveness
 
